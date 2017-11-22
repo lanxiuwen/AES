@@ -150,6 +150,7 @@
   <ItemGroup>
     <ClCompile Include="CryptoFunction.cpp" />
     <ClCompile Include="FileFunction.cpp" />
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
